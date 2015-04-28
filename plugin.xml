@@ -12,7 +12,7 @@
   </engines>
 
   <name>Android Support v7 AppCompat</name>
-  <info>PLUGIN IS DEPRECTATED: android.support.v7-appcompat
+  <info>PLUGIN IS DEPRECATED: android.support.v7-appcompat
 Plugins that require support libraries should instead use:
 
     <framework src="com.android.support:appcompat-v7:+" />
